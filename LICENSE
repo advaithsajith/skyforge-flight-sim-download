@@ -1,0 +1,45 @@
+SkyForge Flight Sim — Proprietary License
+
+Copyright (c) 2026 advaithsajith (github.com/advaithsajith). All rights reserved.
+
+This software, including its source code, flight-model data, generated 3D
+models, artwork, documentation and compiled builds (together, the "Software"),
+is the proprietary property of the copyright holder.
+
+1. Permitted use
+   You may download the official compiled build of the Software from the
+   copyright holder's official release page and run it on your own devices
+   for personal, non-commercial use.
+
+2. Restrictions
+   Unless you have prior written permission from the copyright holder, you
+   may not, in whole or in part:
+   a) copy, clone, mirror or reproduce the source code;
+   b) modify, adapt, translate or create derivative works of the Software;
+   c) distribute, sublicense, sell, rent, lease, publish or otherwise make
+      the Software available to anyone else, including re-uploading builds;
+   d) decompile, disassemble, unpack or reverse engineer the Software,
+      except where applicable law expressly permits it despite this
+      restriction;
+   e) use the Software, or any part of it, for commercial purposes;
+   f) remove or alter any copyright, license or attribution notice.
+
+3. Third-party components
+   The Software uses third-party libraries, data and services that are
+   licensed separately by their owners, as listed in THIRD_PARTY_NOTICES.md.
+   This license does not cover them, and their terms still apply.
+
+4. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IT IS A GAME AND IS
+   NOT SUITABLE FOR REAL-WORLD FLIGHT TRAINING OR NAVIGATION. IN NO EVENT
+   SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS
+   USE.
+
+5. Termination
+   This license ends automatically if you break any of its terms. When it
+   ends, you must stop using the Software and delete every copy you have.
+
+For permission requests, contact: sajitheripuram@gmail.com
